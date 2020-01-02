@@ -2035,6 +2035,10 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 
+	.topic-icon {
+		margin-left: 0.5em;
+	}
+
 /* Image */
 
 	.image {
