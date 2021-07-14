@@ -153,8 +153,8 @@ input, select, textarea {
 
 	h2 {
 		font-family: 'Petit Formal Script';
-		font-size: 1.5em;
-		line-height: 1.5em;
+		font-size: 1.2em;
+		line-height: 1.2em;
 	}
 
 	h3 {
@@ -2038,6 +2038,24 @@ input, select, textarea {
 
 		.icon.regular:before {
 			font-family: 'Font Awesome 5 Free';
+		}
+		.fa-download {
+			color: grey;
+		}
+		.fa-instagram {
+			color: white;
+		}
+		.fa-envelope {
+			color: white;
+		}
+		.fa-facebook {
+			color: white;
+		}
+		.fa-etsy {
+			color: white;
+		}
+		.fa-shopping-bag {
+			color: white;
 		}
 
 	.topic-icon {
